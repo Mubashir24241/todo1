@@ -3,10 +3,12 @@ h1 {
   font-size: 45px;
   margin: 10px;
   margin-bottom: 20px;
+  background-color: rgb(145, 191, 191);
 }
 
 input {
   width: 100%;
+  background-color: rgb(231, 223, 214);
 }
 
 .items-container {
@@ -19,4 +21,11 @@ input {
 
 .kg-row {
   margin: 10px 5px;
+}
+
+.todo-container {
+  background-color: rgb(98, 183, 183);
+  padding: 10px;
+  border-radius: 13px;
+  margin: 10px;
 }
